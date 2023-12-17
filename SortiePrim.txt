@@ -1,18 +1,12 @@
 Arbre couvrant minimal :
-(D,E) : 4
-(A,D) : 3
-(A,B) : 2
-(B,F) : 1
-(B,G) : 2
-(A,C) : 7
-(C,H) : 8
+(A,E) : 2
+(A,B) : 4
+(B,C) : 5
+(D,C) : 3
 Sommet traité :
 A
 B
 C
 D
 E
-F
-G
-H
-Le poids total est : 27
+Le poids total est : 14

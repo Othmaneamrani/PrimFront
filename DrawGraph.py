@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import re
 
 # Lecture du fichier de sortie
-with open("sortiePrim.txt", "r") as file:
+with open("SortiePrim.txt", "r") as file:
     lines = file.readlines()
 
 # Tableau pour stocker les arêtes avec leurs poids
