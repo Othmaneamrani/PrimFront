@@ -1,10 +1,9 @@
-Entrez le sommet de depart :
 Arbre couvrant minimal :
+(D,E) : 4
+(A,D) : 3
 (A,B) : 2
 (B,F) : 1
 (B,G) : 2
-(D,B) : 3
-(D,E) : 4
 (A,C) : 7
 (C,H) : 8
 Sommet traité :
