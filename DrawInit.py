@@ -1,7 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 
-with open("SortiePrim.txt", "r") as file:
+with open("Prim.txt", "r") as file:
     lines = file.readlines()
 
 # Tableau pour stocker les arêtes avec leurs poids
